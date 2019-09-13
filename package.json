@@ -1,0 +1,24 @@
+{
+  "name": "sorter",
+  "version": "0.0.1",
+  "description": "A node application that can sort files on basis of their extension.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/arnitkun/sorter.git"
+  },
+  "keywords": [
+    "file",
+    "sort",
+    "sort"
+  ],
+  "author": "Ankit Arun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arnitkun/sorter/issues"
+  },
+  "homepage": "https://github.com/arnitkun/sorter#readme"
+}
